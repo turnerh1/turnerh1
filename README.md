@@ -1,5 +1,8 @@
-### Hi there 👋
 
+#### ✨ Pronouns: She/her
+#### 🌲 Student in Seattle, WA
+#### 🏫 Interested in Data Analytics / Science
+#### 🥯 Bagel fanatic
 <!--
 **turnerh1/turnerh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ -😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
