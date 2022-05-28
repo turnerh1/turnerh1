@@ -1,7 +1,7 @@
 
 #### ✨ Pronouns: She/her
 #### 🌲 Student in Seattle, WA
-#### 🏫 Interested in Data Analytics / Science
+#### 🏫 Interested in Data Analytics / Data Science
 <!--
 **turnerh1/turnerh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
