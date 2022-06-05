@@ -2,6 +2,8 @@
 #### ✨ Pronouns: She/her
 #### 🌲 Student in Seattle, WA
 #### 🏫 Interested in Data Analytics / Data Science
+
+Check out my Data and Society capstone project, [Predicting Spatial Mismatch](https://github.com/turnerh1/unequal-commute).
 <!--
 **turnerh1/turnerh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
